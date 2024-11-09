@@ -1,4 +1,4 @@
-package Oct.Task.Task_231012024;
+package Oct.Task.Task_23102024;
 //Create a Function of Sub, Sum, Mul and Div with parameter, a, b (take the parameter from the User)
 
 import java.util.Scanner;

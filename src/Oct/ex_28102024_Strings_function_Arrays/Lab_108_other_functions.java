@@ -17,5 +17,10 @@ public class Lab_108_other_functions {
 
         String s3 = "Bhushita";
         System.out.println(s3.replace("B","z"));
+
+        String s4 = "Sharma";
+        System.out.println(s4.startsWith("Sha"));
+        System.out.println(s4.startsWith("bhu"));
+        System.out.println(s4.endsWith("ma"));
     }
 }
